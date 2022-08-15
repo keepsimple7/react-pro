@@ -55,6 +55,6 @@ $ npm run build
 $ npm run prettier
 ```
 
-# License
+## Contact
 
-MIT
+keepsimple95@outlook.com
